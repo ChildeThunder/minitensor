@@ -1,0 +1,8 @@
+/build/
+/build-release/
+
+*.o
+*.a
+
+core
+core.*
